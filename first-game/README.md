@@ -1,5 +1,5 @@
-##### Information
+#### Information
 Eat foods by moving, change speed with U and D
 
-##### Demo
+#### Demo
 [http://kadiryanik.me/game-demos/first-game.html](http://kadiryanik.me/game-demos/first-game.html)
